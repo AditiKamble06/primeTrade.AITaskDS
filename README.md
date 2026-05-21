@@ -1,0 +1,1 @@
+This project explores the relationship between Bitcoin market sentiment (Fear & Greed Index) and real trader behavior on Hyperliquid — a decentralized perpetuals exchange. The goal is to uncover whether sentiment phases influence trading decisions, performance, and risk-taking.
